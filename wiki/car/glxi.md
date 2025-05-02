@@ -8,8 +8,7 @@ The GLXi was powered by the 4G92 engine. The 4G92 is a 1.6 L (1597 cc) engine. I
 
 There was also a DOHC version of the 4G92 engine. The DOHC version produced 140 hp (104 kW) at 7000 rpm and 150 Nm at 5000 rpm. It was used in the 1992-1995 Lancer GSR and 1992-1996 Mirage Cyborg.
 
-| Spoiler | Skirts       |     |     |     |
-| ------- | ------------ | --- | --- | --- |
-| Evo 4   | Lancer Sedan |     |     |     |
-| Evo 5   |              |     |     |     |
-|         |              |     |     |     |
+| Spoiler | Skirts       |
+| ------- | ------------ |
+| Evo 4   | Lancer Sedan |
+| Evo 5   |              |
